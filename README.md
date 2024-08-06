@@ -1,3 +1,4 @@
+**Calculator Application**
 This is a simple, user-friendly Calculator application built using Python's tkinter library for the graphical user interface (GUI). 
 The application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
 It features a clean and intuitive interface.
@@ -10,11 +11,11 @@ It features a clean and intuitive interface.
 To run this application, you need to have Python installed on your machine. 
 This application uses the tkinter library, which is included with Python.
 
-**1:Clone the repository:**
+**1. Clone the repository:**
 git clone https://github.com/Aaditya-19/calculator.git
 cd calculator
 
-**2:Run the application**
+**2. Run the application**
 python calculator.py
 
 **Usage**
