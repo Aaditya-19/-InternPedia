@@ -20,5 +20,5 @@ This repository contains a simple calculator application created using Python an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aaditya-19/InternPedia.git
-   cd InternPedia
+   git clone https://github.com/Aaditya-19/calculator.git
+   cd calculator
